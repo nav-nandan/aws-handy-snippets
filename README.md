@@ -1,4 +1,4 @@
-# aws-snippets
+# aws-handy-snippets
 
 Prerequisites:
 * Install the AWS CLI

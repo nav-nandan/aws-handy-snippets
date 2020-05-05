@@ -1,5 +1,5 @@
-# aws-handy-snippets
+# cloud-handy-snippets
 
-Prerequisites:
+Prerequisites (AWS):
 * Install the AWS CLI
 * Set the default region and credentials
